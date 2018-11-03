@@ -1,8 +1,3 @@
-# so
-This is a SSH login tool
-
-![alt text](http://images2015.cnblogs.com/blog/777900/201510/777900-20151009222826659-1147858761.gif)
-
 ## Linux ssh 登陆工具:
 
 ###　一.说明
